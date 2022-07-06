@@ -1,0 +1,45 @@
+﻿<div class="main-wrapper">
+
+    <section class="blog-list px-3 py-5 p-md-5">
+        <div class="container">
+
+            @if (Model != null)
+            {
+                foreach (var item in Model)
+                {
+                    <div class="item mb-5">
+                        <div class="media">
+                            <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="/images/@item.Images" alt="image">
+                            <div class="media-body">
+                                <h3 class="title mb-1"><a href="/Blog/Detail/@item.Id">@item.Name</a></h3>
+                                <div class="meta mb-1">
+                                    <span class="date">Yayın: @item.PublishDate.ToString("dd-MM-yyyy")</span>
+                                    <span class="time">@item.Interactions.Count Etkileşim</span>
+                                    <span class="comment"><a href="#">@item.Comments.Count Yorum</a></span>
+                                </div>
+                                <div class="intro">
+                                    @if (item.Explanation.Length > 300)
+                                    {
+                                        @Html.Raw(item.Explanation.Substring(0,300) + "...")
+                                    }
+                                    else
+                                    {
+                                        @Html.Raw(item.Explanation)
+                                    }
+                                </div>
+                                <a class="more-link" href="blog-post.html">Daha Fazla &rarr;</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+
+
+
+
+        </div>
+    </section>
+
+
+
+</div>

@@ -1,0 +1,15 @@
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\bin\Debug\net6.0\ExtraKonular.exe
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\bin\Debug\net6.0\ExtraKonular.deps.json
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\bin\Debug\net6.0\ExtraKonular.runtimeconfig.json
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\bin\Debug\net6.0\ExtraKonular.dll
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\bin\Debug\net6.0\ExtraKonular.pdb
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\obj\Debug\net6.0\ExtraKonular.csproj.AssemblyReference.cache
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\obj\Debug\net6.0\ExtraKonular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\obj\Debug\net6.0\ExtraKonular.AssemblyInfoInputs.cache
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\obj\Debug\net6.0\ExtraKonular.AssemblyInfo.cs
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\obj\Debug\net6.0\ExtraKonular.csproj.CoreCompileInputs.cache
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\obj\Debug\net6.0\ExtraKonular.dll
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\obj\Debug\net6.0\refint\ExtraKonular.dll
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\obj\Debug\net6.0\ExtraKonular.pdb
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\obj\Debug\net6.0\ExtraKonular.genruntimeconfig.cache
+C:\Users\Hikmet\source\repos\COREHAFTASONU\HaftaSonuBlog\ExtraKonular\obj\Debug\net6.0\ref\ExtraKonular.dll

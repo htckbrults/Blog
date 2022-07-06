@@ -1,0 +1,79 @@
+﻿<script>
+    $(document).ready(function () {
+        $("#partial").load("/JSON/PartialGetir/" + @Model.Id +"");
+    });
+
+    function Etkilesim(blogid, status) {
+        $.ajax({
+            type: "POST", // HTTP'nin hangi protokolü kullanılacak.
+            url: "/JSON/Index", // HAngi URL adresine gidecektir.
+            data: { BlogId: '' + blogid + '', Status: '' + status + '' }, // Hangi DAtalar Gönderilecektir.
+            dataType: "json", // Gönderilen Data'nın Tipi NE OLACAK ?
+            success: function (response) {
+                $("#partial").load("/JSON/PartialGetir/" + @Model.Id +"");
+            },
+            error: function (response) {
+            }
+        });
+    }
+</script>
+<div class="main-wrapper">
+    <article class="blog-post px-3 py-5 p-md-5">
+        <div class="container">
+            <header class="blog-post-header">
+                <h2 class="title mb-2">@Model.Name</h2>
+                <div class="meta mb-3">
+                    <span class="date" style="cursor:pointer">Yayın: @Model.PublishDate.ToString("dd-MM-yyyy")</span>
+                    <span id="partial"></span>
+
+
+                    <span class="comment"><a href="#">@Model.Comments.Count Yorum</a></span>
+                </div>
+            </header>
+
+            <div class="blog-post-body">
+                <figure class="blog-banner">
+                    <img class="img-fluid" src="/images/@Model.Images" alt="image">
+                </figure>
+                @Html.Raw(Model.Explanation)
+            </div>
+        </div>
+    </article>
+
+    <article class="blog-post px-3 py-5 p-md-5">
+        <div class="container">
+            <div class="blog-post-body">
+                <form action="/Blog/Detail/@Model.Id" method="post">
+                    <input type="text" name="Commenter" placeholder="Adınız Soyadınız" class="form-control" style="margin-bottom:5px" maxlength="100" />
+
+                    <input type="text" name="Email" placeholder="Email :" class="form-control" style="margin-bottom:5px" maxlength="100" />
+
+                    <textarea type="text" name="Explanation" placeholder="Yorumunuz" class="form-control" style="margin-bottom:5px;height:150px" maxlength="350"></textarea>
+
+                    <button type="submit" class="btn btn-primary form-control" style="margin-bottom:15px">Yorumu Gönder</button>
+                </form>
+                @if (ViewBag.Message != null)
+                {
+                    <div class="alert alert-success">Yorumunuz için Teşekkürler. Yorumunuz onaylandıktan sonra yayınlanacaktır.</div>
+                }
+            </div>
+        </div>
+    </article>
+
+    <article class="blog-post px-3 py-5 p-md-5">
+        <div class="container">
+            <div class="blog-post-body">
+                <div style="padding:5px;width:100%;display:block;margin-bottom:15px;background-color:#f7f7f7;text-align:center;font-size:18px;">Yorumlar :</div>
+                @foreach (var item in Model.Comments)
+                {
+                    if (item.Status)
+                    {
+                        <div style="padding:5px;width:100%;display:block;background-color:#f2f2f2"><b>Yorum Yapan :</b> @item.Commenter</div>
+                        <div style="padding:5px;width:100%;display:block;margin-bottom:15px;background-color:#f2f2f2;padding-left:15px">@item.Explanation</div>
+                    }
+                }
+            </div>
+        </div>
+    </article>
+
+</div>

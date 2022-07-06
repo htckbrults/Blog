@@ -1,0 +1,40 @@
+﻿@model DataAccessLayer.Models.Blogs
+
+<a href="/admin/Bloglar" style="margin-top:25px;margin-bottom:25px;" class="btn btn-primary">Geri Git</a>
+
+<form action="/admin/bloglar/Insert" method="post" enctype="multipart/form-data">
+
+
+
+    <input type="file" name="file" class="form-control" style="margin-bottom:10px;" />
+    <input type="text" asp-for="Name" class="form-control" style="margin-bottom:10px;" placeholder="Blog Adı" />
+    <span asp-validation-for="Name"></span>
+
+
+    <textarea type="text" asp-for="Explanation" class="form-control" style="margin-bottom:10px;height:150px"></textarea>
+    <span asp-validation-for="Explanation"></span>
+
+    <script>
+        CKEDITOR.replace('Explanation');
+    </script>
+
+
+    <input type="date" asp-for="PublishDate" class="form-control" style="margin-bottom:10px;margin-top:15px;" />
+    <span asp-validation-for="PublishDate"></span>
+
+    <select name="Status" class="form-control" style="margin-bottom:10px;">
+        <option value="True">Aktif</option>
+        <option value="False">Pasif</option>
+    </select>
+
+    <button type="submit" class="btn btn-primary">Ekle</button>
+
+</form>
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger" style="margin-top:25px;">@ViewBag.Error</div>
+}
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-success" style="margin-top:25px;">@ViewBag.Message</div>
+} 

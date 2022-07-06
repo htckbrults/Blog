@@ -1,0 +1,27 @@
+﻿
+<a href="/admin/Kullanicilar" style="margin-top:25px;margin-bottom:25px;" class="btn btn-primary">Geri Git</a>
+
+<form action="/admin/Kullanicilar/Update/@Model.Id" method="post" enctype="multipart/form-data">
+
+    <img src="/images/AvatarImages" width="150" style="margin-bottom:15px;" />
+
+    <input type="file" name="file" class="form-control" style="margin-bottom:10px" />
+    <input type="text" name="NameSurname" class="form-control" style="margin-bottom:10px" placeholder="Adı Soyadı" value="@Model.NameSurname" />
+    <input type="text" name="Email" class="form-control" style="margin-bottom:10px"  value="@Model.Email" />
+    <input type="password" name="Password" class="form-control" style="margin-bottom:10px" value="@Model.Password" />
+    <input type="text" name="Summary" class="form-control" style="margin-bottom:10px" value="@Model.Summary" />
+    <textarea class="form-control" name="Explanation" placeholder="Biyografi" style="margin-bottom:10px;height:150px;">@Model.Explanation</textarea>
+
+    <input type="text" name="Phone" class="form-control" style="margin-bottom:10px" value="@Model.Phone" />
+
+    <button type="submit" class="btn btn-primary"> Güncelle</button>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger" style="margin-top:25px;">@ViewBag.Error</div>
+}
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-success" style="margin-top:25px;">@ViewBag.Message</div>
+} 

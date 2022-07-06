@@ -1,0 +1,7 @@
+﻿@{
+    IList<DataAccessLayer.Models.Interactions> etkilesim = Model;
+}
+<span class="time">
+    <span style="cursor:pointer" onclick="Etkilesim(@etkilesim.FirstOrDefault().BlogsId,true)">@etkilesim.Where(x=> x.InteractionType == true).Count() Beğendi</span>
+    <span style="cursor:pointer" onclick="Etkilesim(@etkilesim.FirstOrDefault().BlogsId,false)">@etkilesim.Where(x=> x.InteractionType == false).Count() Beğenmedi</span>
+</span>

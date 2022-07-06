@@ -1,0 +1,2877 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\css\\theme-1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-1.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\css\\theme-2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-2.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\css\\theme-3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-3.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\css\\theme-4.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\css\\theme-5.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-5.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\css\\theme-6.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-6.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\css\\theme-7.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-7.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\css\\theme-8.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-8.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\about-me.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-thumb-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-thumb-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-thumb-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-thumb-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-thumb-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\blog\\blog-post-thumb-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\images\\promo-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\js\\blog.js",
+      "PackagePath": "staticwebassets\\assets\\js\\blog.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\js\\demo\\style-switcher.js",
+      "PackagePath": "staticwebassets\\assets\\js\\demo\\style-switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\plugins\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\plugins\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\index.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\index.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\util.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\dist\\util.js.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\dist\\util.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\index.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\src\\util.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\src\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\README.md",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\browsers.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\browsers.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\index.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\integration\\bundle.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\integration\\bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\integration\\index.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\integration\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\integration\\rollup.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\integration\\rollup.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\karma.conf.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\karma.conf.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\alert.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\button.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\carousel.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\collapse.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\dropdown.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\modal.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\popover.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\scrollspy.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\tab.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\toast.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\tooltip.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\unit\\util.js",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\unit\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\visual\\alert.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\visual\\alert.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\visual\\button.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\visual\\button.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\visual\\carousel.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\visual\\carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\visual\\collapse.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\visual\\collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\visual\\dropdown.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\visual\\dropdown.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\visual\\modal.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\visual\\modal.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\visual\\popover.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\visual\\popover.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\visual\\scrollspy.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\visual\\scrollspy.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\visual\\tab.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\visual\\tab.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\visual\\toast.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\visual\\toast.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\js\\tests\\visual\\tooltip.html",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\js\\tests\\visual\\tooltip.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme-1.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme-1.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme-2.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme-2.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme-3.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme-3.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme-4.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme-4.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme-5.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme-5.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme-6.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme-6.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme-7.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme-7.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme-8.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme-8.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme\\_base.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme\\_demo.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\assets\\scss\\theme\\styles.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\theme\\styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\ckeditor\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\dialogs\\codesnippet.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\dialogs\\codesnippet.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\CHANGES.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\CHANGES.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\LICENSE",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\README.ru.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\README.ru.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\highlight.pack.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\highlight.pack.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\arta.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\arta.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\ascetic.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\ascetic.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-dune.dark.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-dune.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-dune.light.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-dune.light.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-forest.dark.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-forest.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-forest.light.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-forest.light.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-heath.dark.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-heath.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-heath.light.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-heath.light.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-lakeside.dark.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-lakeside.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-lakeside.light.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-lakeside.light.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-seaside.dark.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-seaside.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-seaside.light.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\atelier-seaside.light.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\brown_paper.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\brown_paper.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\brown_papersq.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\brown_papersq.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\dark.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\default.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\docco.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\docco.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\far.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\far.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\foundation.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\github.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\github.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\googlecode.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\googlecode.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\idea.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\idea.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\ir_black.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\ir_black.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\magula.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\magula.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\mono-blue.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\mono-blue.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\monokai.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\monokai.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\monokai_sublime.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\monokai_sublime.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\obsidian.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\obsidian.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\paraiso.dark.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\paraiso.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\paraiso.light.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\paraiso.light.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\pojoaque.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\pojoaque.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\pojoaque.jpg",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\pojoaque.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\railscasts.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\railscasts.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\rainbow.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\rainbow.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\school_book.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\school_book.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\school_book.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\school_book.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\solarized_dark.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\solarized_dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\solarized_light.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\solarized_light.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\sunburst.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\sunburst.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\tomorrow-night-blue.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\tomorrow-night-blue.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\tomorrow-night-bright.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\tomorrow-night-bright.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\tomorrow-night-eighties.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\tomorrow-night-eighties.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\tomorrow-night.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\tomorrow-night.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\tomorrow.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\tomorrow.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\vs.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\vs.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\xcode.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\xcode.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\zenburn.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\codesnippet\\lib\\highlight\\styles\\zenburn.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\div\\dialogs\\div.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\div\\dialogs\\div.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\embedbase\\dialogs\\embedbase.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\embedbase\\dialogs\\embedbase.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\find\\dialogs\\find.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\find\\dialogs\\find.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\flash\\dialogs\\flash.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\flash\\dialogs\\flash.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\flash\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\flash\\images\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\button.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\form.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\form.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\radio.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\radio.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\select.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\select.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\textarea.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\textarea.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\forms\\dialogs\\textfield.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\dialogs\\textfield.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\iframe\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\iframe\\images\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\check_permission.php",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\check_permission.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\create.php",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\create.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\dist\\jquery.lazyload.min.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\dist\\jquery.lazyload.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\dist\\js.cookie-2.0.3.min.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\dist\\js.cookie-2.0.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\dist\\sweetalert.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\dist\\sweetalert.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\dist\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\dist\\sweetalert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\function.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\function.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\function.php",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\function.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-ico-browser.ico",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-ico-browser.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-block.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-block.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-browser.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-browser.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-bug.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-bug.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-close-black.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-close-black.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-close-grey.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-close-grey.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-close.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-close.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-coffee.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-coffee.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-credits.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-credits.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-delete.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-delete.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-disable.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-disable.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-done.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-done.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-download.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-download.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-edit.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-edit.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-english.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-english.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-faq.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-faq.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-german.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-german.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-hideext.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-hideext.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-image.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-image.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-images.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-images.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-list.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-list.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-logout.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-logout.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-password.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-password.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-polish.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-polish.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-qedit.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-qedit.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-qtrash.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-qtrash.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-refresh.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-select.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-select.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-settings.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-settings.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-showext.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-showext.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-translate.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-translate.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-updates.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-updates.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-upload-big.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-upload-big.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-upload-grey.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-upload-grey.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-upload.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-upload.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-use.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-use.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-version.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-version.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-warning.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\img\\cd-icon-warning.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\imgbrowser.php",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\imgbrowser.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\imgdelete.php",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\imgdelete.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\imgupload.php",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\imgupload.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\login.php",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\login.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\loginindex.php",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\loginindex.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\logout.php",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\logout.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\new.php",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\new.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\pluginconfig.php",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\pluginconfig.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\styles.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\styles.min.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\styles.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imageuploader\\uploads\\placeholder.jpg",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imageuploader\\uploads\\placeholder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imgbrowse\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imgbrowse\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imgbrowse\\README.rst",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imgbrowse\\README.rst"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imgbrowse\\imgbrowse.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imgbrowse\\imgbrowse.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\imgbrowse\\imgbrowse.php",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\imgbrowse\\imgbrowse.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\preview\\preview.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\preview\\preview.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_address.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_address.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_div.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_div.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_h1.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_h1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_h2.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_h2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_h3.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_h3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_h4.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_h4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_h5.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_h5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_h6.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_h6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_p.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_p.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\showblocks\\images\\block_pre.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\showblocks\\images\\block_pre.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\angel_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\angel_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\angry_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\angry_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\broken_heart.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\broken_heart.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\confused_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\confused_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\cry_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\cry_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\devil_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\devil_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\envelope.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\envelope.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\envelope.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\envelope.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\heart.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\heart.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\heart.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\kiss.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\kiss.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\kiss.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\kiss.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\lightbulb.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\lightbulb.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\omg_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\omg_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\regular_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\regular_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\sad_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\sad_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\shades_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\shades_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\smiley\\images\\wink_smile.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\smiley\\images\\wink_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\templates\\dialogs\\templates.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\dialogs\\templates.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\templates\\dialogs\\templates.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\dialogs\\templates.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\templates\\templates\\default.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\templates\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\wsc\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\wsc\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\wsc\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\wsc\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\wsc\\dialogs\\ciframe.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\wsc\\dialogs\\ciframe.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\wsc\\dialogs\\tmpFrameset.html",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\wsc\\dialogs\\tmpFrameset.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\wsc\\dialogs\\wsc.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\wsc\\dialogs\\wsc.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\wsc\\dialogs\\wsc.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\wsc\\dialogs\\wsc.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\wsc\\dialogs\\wsc_ie.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\wsc\\dialogs\\wsc_ie.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\plugins\\wsc\\skins\\moono-lisa\\wsc.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\wsc\\skins\\moono-lisa\\wsc.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\._index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\._index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\codesnippet\\codesnippet.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\codesnippet\\codesnippet.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\outputforflash.fla",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\outputforflash.fla"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\outputforflash.swf",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\outputforflash.swf"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\swfobject.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\swfobject.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\htmlwriter\\outputforflash.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\htmlwriter\\outputforflash.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\._index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\._index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\css\\._fontello.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\css\\._fontello.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\._LICENSE.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\._LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\._config.json",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\._config.json"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\._fontello.eot",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\._fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\._fontello.svg",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\._fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\._fontello.ttf",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\._fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\._fontello.woff",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\._fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\._abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\._abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\._fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\._fulltoolbareditor.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\._toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\._toolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\._toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\._toolbartextmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._LICENSE",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._LICENSE"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._codemirror.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._codemirror.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._javascript.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._neo.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._neo.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._show-hint.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._show-hint.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._show-hint.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\._show-hint.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\._arrow.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\._arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\._close.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\._close.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\._lock-open.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\._lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\._lock.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\._lock.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\._refresh.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\._refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\._spinner.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\._spinner.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\._close.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\._close.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\._lock-open.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\._lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\._lock.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\._lock.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\._refresh.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\._refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\089a9c1d-2bee-4a52-9e65-462edd55b9a1.jpeg",
+      "PackagePath": "staticwebassets\\images\\089a9c1d-2bee-4a52-9e65-462edd55b9a1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\22ebeb97-412a-4aa0-a43f-3f5740dddf4b.jpeg",
+      "PackagePath": "staticwebassets\\images\\22ebeb97-412a-4aa0-a43f-3f5740dddf4b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\294fd997-bc2f-4c9c-a6b1-0a2d1414cb68.jpeg",
+      "PackagePath": "staticwebassets\\images\\294fd997-bc2f-4c9c-a6b1-0a2d1414cb68.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\47ceb088-dc93-49ad-8925-7ccafcd136f4.jpeg",
+      "PackagePath": "staticwebassets\\images\\47ceb088-dc93-49ad-8925-7ccafcd136f4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\4da443b5-62fd-40d8-b504-f8258f687bb9.jpeg",
+      "PackagePath": "staticwebassets\\images\\4da443b5-62fd-40d8-b504-f8258f687bb9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\5dc4304f-81ac-47ee-bd87-9f5bbea3e96b.jpeg",
+      "PackagePath": "staticwebassets\\images\\5dc4304f-81ac-47ee-bd87-9f5bbea3e96b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\8166ac98-8ad7-4ecc-bbb9-0ab83c78aaad.jpg",
+      "PackagePath": "staticwebassets\\images\\8166ac98-8ad7-4ecc-bbb9-0ab83c78aaad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\948f6504-49b3-45f2-bbb4-9a607b2b0d04.jpg",
+      "PackagePath": "staticwebassets\\images\\948f6504-49b3-45f2-bbb4-9a607b2b0d04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\9c1612fb-c86b-4935-85f6-85ca78077977.jpeg",
+      "PackagePath": "staticwebassets\\images\\9c1612fb-c86b-4935-85f6-85ca78077977.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\b9210812-0821-42c4-a7bd-9a5417d7768f.jpeg",
+      "PackagePath": "staticwebassets\\images\\b9210812-0821-42c4-a7bd-9a5417d7768f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\bfb2514c-518d-42cb-b806-9b6b8cd416c9.jpeg",
+      "PackagePath": "staticwebassets\\images\\bfb2514c-518d-42cb-b806-9b6b8cd416c9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\c97cf2ac-2968-489c-bbba-4611baaa9bb3.jpeg",
+      "PackagePath": "staticwebassets\\images\\c97cf2ac-2968-489c-bbba-4611baaa9bb3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\images\\f66a07a5-8db7-42e5-8533-62c14665b183.jpeg",
+      "PackagePath": "staticwebassets\\images\\f66a07a5-8db7-42e5-8533-62c14665b183.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\jquery-validate\\additional-methods.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\jquery-validate\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\jquery-validate\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\jquery-validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jquery-validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hikmet\\source\\repos\\COREHAFTASONU\\HaftaSonuBlog\\IUWeb\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.UIWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.UIWeb.props",
+      "PackagePath": "build\\UIWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.UIWeb.props",
+      "PackagePath": "buildMultiTargeting\\UIWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.UIWeb.props",
+      "PackagePath": "buildTransitive\\UIWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

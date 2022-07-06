@@ -1,0 +1,31 @@
+﻿
+
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>#</td>
+            <td>Blog</td>
+            <td>Yorum Yapan</td>
+            <td>Yorum</td>
+            <td>Tarih</td>
+            <td>Durum</td>
+            <td>İşlemler</td>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Blogs.Name</td>
+            <td>@item.Commenter</td>
+            <td>@item.Explanation</td>
+            <td>@item.CommentDate</td>
+            <td>@(item.Status ? "Aktif" : "Pasif")</td>
+            <td>
+                <a href="/admin/Yorumlar/Update/@item.Id" class="btn btn-primary">Düzenle</a>
+            </td>
+        </tr>
+    }
+
+</table>

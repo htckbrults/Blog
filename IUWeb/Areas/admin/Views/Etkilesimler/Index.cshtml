@@ -1,0 +1,20 @@
+﻿<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>#</td>
+            <td>Blog</td>
+            <td>Tarih</td>
+            <td>Durum</td>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Blogs.Name</td>
+            <td>@item.InteractionDate</td>
+            <td>@(item.InteractionType ? "Beğendi" : "Beğenmedi")</td>
+        </tr>
+    }
+
+</table>
